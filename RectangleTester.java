@@ -1,3 +1,5 @@
+package CodeHSU2L5;
+
 public class RectangleTester
 {
     public static void main(String[] args)
